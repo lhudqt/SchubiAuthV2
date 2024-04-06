@@ -8,7 +8,6 @@
 
 [Majanito](https://github.com/Majanito)
 [BattleB0t](https://github.com/BattleB0t)
-[Schubilegend](https://github.com/Schubilegend)
 
 </div>
 
