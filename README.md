@@ -3,6 +3,13 @@
 # SchubiAuth
 
 **A 1.8.9 Minecraft Forge mod that allows you to login to other people's minecraft accounts using a Session ID**
+
+**Credits:**
+
+[Majanito](https://github.com/Majanito)
+[BattleB0t](https://github.com/BattleB0t)
+[Schubilegend](https://github.com/Schubilegend)
+
 </div>
 
 ## Download
